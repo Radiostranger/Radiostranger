@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Radiostranger
 - 👀 I’m interested in frontend technologies
-- 🌱 I’m currently learning javascript(React, Reactnative)
+- 🌱 I’m currently learning javascript(ReactJs, Reactnative)
 - 💞️ I’m looking to collaborate on open source projects, with the aim of gathering experience in my field
 - 📫 How to reach me albertchukwudozie@gmail.com
 
